@@ -2,7 +2,7 @@
 <suite parallel="false" name="Suite">
   <test name="Test">
     <classes>
-      <class name="com.testautomation.MyAutomation.NewTest"/>
+      <class name="com.testautomation.MyAutomation.Guru99Registration"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
